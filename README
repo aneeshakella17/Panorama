@@ -1,0 +1,10 @@
+README
+
+
+automatedpanorama.py contains all the code for automated panorama construction -> ANMS, Feature Matching, Inlier Detection,  RANSAC, and auto-panormama recogintion.
+
+panorama.py contains the homography code and image warping code
+
+multiresolution.py contains code for the multiresolution blend that was used to seamlessly blend the images together into a mosaic. 
+
+harris.py is the provided code to detect harris corners
